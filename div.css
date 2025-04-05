@@ -1,0 +1,30 @@
+
+.feedback-box {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: fit-content;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.feedback-box p {
+    margin: 0 0 15px 0;
+    color: #333;
+    font-size: 16px;
+}
+
+.feedback-box button {
+    padding: 8px 20px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.feedback-box button:hover {
+    background-color: #e0e0e0;
+}
