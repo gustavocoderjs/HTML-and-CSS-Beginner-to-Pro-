@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora Simples</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        input, button {
+            padding: 8px;
+            margin: 5px 0;
+            width: 100%;
+        }
+        #resultado {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Somando Números</h1>
+    <input type="number" id="numero1" placeholder="Digite o primeiro número">
+    <input type="number" id="numero2" placeholder="Digite o segundo número">
+    <button onclick="somar()">Somar</button>
+    <div id="resultado"></div>
+    <script src="index.js"></script>
+</body>
+</html>
