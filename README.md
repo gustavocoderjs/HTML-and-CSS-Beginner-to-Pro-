@@ -1,5 +1,5 @@
 
-# HTML, CSS e JavaScript — Diário de Estudos
+# HTML, CSS e JavaScript 
 
 Este repositório documenta o progresso dos estudos em HTML, CSS e JavaScript. O objetivo é reunir exemplos, exercícios e pequenas aplicações que ilustram conceitos aprendidos ao longo do estudo, servindo como referência prática e registro de evolução.
 
